@@ -1,2 +1,2 @@
 # exemple
-class pour vecteur
+class python pour representer un vecteur
